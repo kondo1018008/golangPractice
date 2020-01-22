@@ -1,2 +1,2 @@
 # golangPractice
-Golangのお勉強用
+Golangのお勉強用。
